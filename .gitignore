@@ -1,0 +1,10 @@
+# dependencies
+vendor/
+# revive runtime dirs
+var/cache/
+var/templates_compiled/
+# logs
+*.log
+# os
+.DS_Store
+Thumbs.db
